@@ -1,0 +1,6 @@
+[submodule "desplug-backend"]
+	path = desplug-backend
+	url = https://github.com/lerao/desplug-backend
+[submodule "desplug-frontend"]
+	path = desplug-frontend
+	url = https://github.com/lerao/desplug-frontend
