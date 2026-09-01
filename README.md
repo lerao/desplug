@@ -4,6 +4,12 @@
 | --- | --- |
 | [![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/lerao/desplug-backend/) | [![GitHub repo](https://img.shields.io/badge/github-repo-green?logo=github)](https://github.com/lerao/desplug-frontend/) |
 
+Para copiar os projetos, use 
+```
+git clone --recurse-submodules https://github.com/lerao/desplug.git
+```
+
+
 # Documento de Especificação de Requisitos – Plataforma DesplugAI
 
 ## 1. Visão Geral
@@ -278,3 +284,11 @@ O formulário de contexto de turma do DesplugAI Studio não deve coletar nomes p
 
 ### **[RN09] - Moderação e Diretrizes de Conteúdo**
 Planos publicados na comunidade que recebam denúncias de conteúdo inadequado, plágio descaracterizado ou desvio das finalidades educacionais podem ser revertidos a qualquer momento para o status `PENDENTE_MODERACAO` por Administradores ou Gestores de Secretaria autorizados, saindo imediatamente da lista pública.
+
+
+# Controle de versões 
+
+| Versão | Data | Descrição | Responsável | Revisado por |
+| --- | --- | --- | --- | --- |
+| 0.1 | 01/09/2026 | Versão inicial do documento |  [Lairson Alencar](https://github.com/lerao/) | - |
+
