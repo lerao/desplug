@@ -94,6 +94,7 @@ Catálogo oficial das habilidades da BNCC tradicional e da BNCC da Computação.
 * **Etapa de Ensino:** (Enum) `EDUCACAO_INFANTIL`, `FUNDAMENTAL_ANOS_INICIAIS`, `FUNDAMENTAL_ANOS_FINAIS`, `ENSINO_MEDIO`.
 * **Ano / Faixa Etária:** (Texto) Ano escolar específico (ex.: "1º e 2º Anos", "6º Ano").
 * **Componente Curricular:** (Texto) Disciplina vinculada (ex.: Computação, Matemática, Ciências, Língua Portuguesa).
+* **Objeto Conhecimento:** (Texto) Objeto do conhecimento vinculado (ex.: Algoritmos, Hardware e software, Tipos de dados).
 
 **[ENT05] - Plano de Aula / Atividade (LessonPlan):**
 Entidade central do repositório contendo o conteúdo didático e metodológico.
